@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Services – Varadhanah Consulting LLP</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Our Services</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>What We Offer</h2>
+      <ul>
+        <li>Mortgage Document Review</li>
+        <li>Title Search Assistance</li>
+        <li>Client Detail Verification</li>
+        <li>Property Record Handling</li>
+        <li>Email & Document Coordination</li>
+        <li>Back‑Office Admin Tasks</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Benefits</h2>
+      <ul>
+        <li>Always-on turnaround support</li>
+        <li>Highly competitive pricing</li>
+        <li>Aligned with U.S. real estate processes</li>
+        <li>Strict data security protocols</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Varadhanah Consulting LLP</p>
+  </footer>
+</body>
+</html>

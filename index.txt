@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Varadhanah Consulting LLP</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Varadhanah Consulting LLP</h1>
+    <p><em>Precision. Performance. Partnership.</em></p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Welcome</h2>
+      <p>
+        We’re your trusted backend support partner for U.S. title and mortgage
+        companies—offering document coordination, title search assistance,
+        client verifications, and more.
+      </p>
+      <a class="cta-button" href="contact.html">Partner with Us Today</a>
+    </section>
+    <section>
+      <h2>Why Choose Us</h2>
+      <ul>
+        <li>Efficient 24/7 operations</li>
+        <li>High quality at lower cost</li>
+        <li>U.S.-trained process and terminology</li>
+        <li>Secure and reliable handling</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Varadhanah Consulting LLP</p>
+    <p>Delivering precision, performance &amp; partnership to U.S. title companies.</p>
+  </footer>
+</body>
+</html>
